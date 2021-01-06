@@ -1,0 +1,12 @@
+.select{
+    width: 340px;
+    height: 60px;
+    background: #F2F2F2;
+    border-radius: 26px 26px 5px 26px;
+    border: none;
+}
+
+.select_container{
+    display: block;
+    position: relative;
+}
